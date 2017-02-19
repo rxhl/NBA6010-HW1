@@ -1,0 +1,127 @@
+html, body  {
+	margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("https://raw.githubusercontent.com/rxhl/Big-Red-Bot/gh-pages/img/cornell.jpg");
+    background-attachment: fixed; 
+    background-position: center;  
+    background-size: 100% 100%;
+}
+
+.primary-out {
+    width: 80%;
+    border-bottom: 10px solid darkred;
+    background-color: white;
+    margin: auto;
+    display: block;
+    opacity: 0.98;
+    margin-bottom: 60px;
+}
+
+.primary-in {
+    padding: 10px;
+    text-align: center;
+	
+}
+
+#title {
+    font-family: 'Roboto', sans-serif;   
+	font-weight: 700;
+    text-align: center;
+    font-size: 30px;
+    color: #2d2d2d;
+}
+
+#fname {
+    font-family: 'Roboto', sans-serif;   
+	font-weight: 300;
+    text-align: center;
+    font-size: 35px;
+    color: #2d2d2d;
+	padding-top: 20px;
+}
+
+
+.img-circle {
+
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+.intro {
+    width: 80%;
+    margin: auto;
+    text-align: left; 
+    margin-top: 40px;
+    font-size: 19px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin-bottom: 80px;
+
+}
+
+footer {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 19px;
+}
+
+
+.linker a {
+ 	color: royalblue;
+  	text-decoration: none;
+}
+
+.linker a:hover {
+  	color: royalblue;
+  	text-decoration: none;
+  	border-bottom: 1.5px midnightblue solid;
+}
+
+.linepics {
+	display: inline-block;
+	margin: 5px;
+	vertical-align: top;
+}
+
+
+.caption {
+	font-family: 'lato', sans-serif;
+	color: grey;
+	font-size: 0.9em;
+}
+
+.boldtext {
+	font-family: 'Roboto', sans-serif;   
+	font-weight: 700;
+	font-size: 20px;
+	color: #2d2d2d;
+}
+
+.boldtext2 {
+	font-family: 'Open Sans', sans-serif;   
+	font-weight: 300;
+	font-size: 30px;
+	color: #2d2d2d;
+	text-align: center;
+}
+
+ul.lister {
+	list-style-type: square;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.screenshots {
+	max-width: 100%;
+	height: auto;	
+}
+
+.inline-text {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 22px;
+	
+}
